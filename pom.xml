@@ -43,5 +43,6 @@
     <modules>
         <module>creational</module>
         <module>behavioral</module>
+        <module>structural</module>
     </modules>
 </project>
