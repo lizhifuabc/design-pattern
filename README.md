@@ -1,9 +1,13 @@
 # java-design-pattern
 设计模式梳理
 
-## creational pattern
+## **创建型模式（Creational Patterns）**
 
+[creational](./creational)
 
+## **行为型模式（Behavioral Patterns）**
+
+[behavioral](./behavioral)
 
 ## 参考项目
 
