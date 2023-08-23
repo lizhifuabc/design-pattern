@@ -17,6 +17,7 @@
         <module>abstract-factory</module>
         <module>factory</module>
         <module>factory-method</module>
+        <module>step-builder</module>
     </modules>
 
 

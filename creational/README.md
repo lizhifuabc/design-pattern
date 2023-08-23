@@ -5,3 +5,4 @@
 - **[singleton](./singleton) 单例模式（Singleton）**：确保一个类只有一个实例，并提供一个全局访问点。
 - **[builder](./builder) 建造者模式（Builder）**：将一个复杂对象的构建过程与其表示分离，使得同样的构建过程可以创建不同的表示。
 - **[factory-method](./factory-method) 工厂方法模式（Factory Method Pattern）**：定义了一个创建产品的接口，由具体的工厂类来实现这个接口，从而创建不同类型的产品。每个具体工厂类负责创建一种产品。
+- **[step-builder](./step-builder) Step Builder** 模式是一种创建对象的设计模式，它旨在提供一种易于使用、清晰明了的方式来构建复杂的对象。
