@@ -3,6 +3,7 @@
 *.iws
 *.iml
 *.ipr
+target
 ################ Package Files ##################
 *.jar
 *.war
