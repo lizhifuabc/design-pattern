@@ -18,6 +18,7 @@
         <module>factory</module>
         <module>factory-method</module>
         <module>step-builder</module>
+        <module>converter</module>
     </modules>
 
 

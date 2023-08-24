@@ -6,3 +6,5 @@
 - **[builder](./builder) 建造者模式（Builder）**：将一个复杂对象的构建过程与其表示分离，使得同样的构建过程可以创建不同的表示。
 - **[factory-method](./factory-method) 工厂方法模式（Factory Method Pattern）**：定义了一个创建产品的接口，由具体的工厂类来实现这个接口，从而创建不同类型的产品。每个具体工厂类负责创建一种产品。
 - **[step-builder](./step-builder) Step Builder** 模式是一种创建对象的设计模式，它旨在提供一种易于使用、清晰明了的方式来构建复杂的对象。
+- [converter](./converter)转换器模式:适配器模式（Adapter Pattern）的变种，是一种结构型设计模式，用于将一个类的接口转换成另一个接口，以满足客户端的需求。
+
