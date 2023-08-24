@@ -10,6 +10,7 @@
   [behavioral](./behavioral)
 
 - **结构型模式（Structural Patterns）**
+
   [structural](./structural)
   
 
