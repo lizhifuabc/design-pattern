@@ -44,5 +44,6 @@
         <module>creational</module>
         <module>behavioral</module>
         <module>structural</module>
+        <module>structural/page-controller</module>
     </modules>
 </project>
