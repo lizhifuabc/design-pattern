@@ -1,5 +1,5 @@
 # java-design-pattern
-设计模式梳理
+项目指引：
 
 - **创建型模式（Creational Patterns）**
 
@@ -13,6 +13,9 @@
 
   [structural](./structural)
   
+- **并发编程系列**
+  
+  [concurrency](./concurrency)
 
 ## 参考项目
 

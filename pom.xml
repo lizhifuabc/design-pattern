@@ -45,5 +45,6 @@
         <module>behavioral</module>
         <module>structural</module>
         <module>structural/page-controller</module>
+        <module>concurrency</module>
     </modules>
 </project>
