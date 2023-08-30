@@ -13,8 +13,12 @@
 
   [structural](./structural)
   
-- **并发编程系列**
+- **架构模式（Architectural Pattern）**
   
+  [architectural](./architectural)
+
+- **并发编程系列**
+
   [concurrency](./concurrency)
 
 ## 参考项目
